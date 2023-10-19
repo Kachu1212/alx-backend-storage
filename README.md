@@ -5,3 +5,4 @@ The ALX Backend Storage repository is a comprehensive and efficient solution for
 
 - [0x00-MySQL_advanced](./0x00-MySQL_advanced) - Project on MySQL advanced
 - [0x01- NoSQL](./0x01-NoSQL) - Project on NoSQL
+- [0x02-redis_basic](./0x02-redis_basic) - Project on Redis_basic
